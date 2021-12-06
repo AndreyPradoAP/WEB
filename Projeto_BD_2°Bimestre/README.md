@@ -5,6 +5,6 @@
 
 Foram usado HTML, CSS e PHP.
 
-Video funcionamento projeto: https://www.youtube.com/watch?v=_bJoZ7XbBNg&t=2s
+[Video do projeto funcionando](https://www.youtube.com/watch?v=_bJoZ7XbBNg&t=2s)
 
 *OBS: o PHP não está orientado a objetos.*
